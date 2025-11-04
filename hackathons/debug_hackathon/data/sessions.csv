@@ -1,0 +1,7 @@
+date,participant_id,condition,trials,correct,rt,dropout,exclusions
+2025-10-01,P01,Control,100,86,520ms,10%,2
+2025-10-01,P02,control,80,60,0.6s,,1
+2025-10-02,P03,Treatment,90,70,0.55s,5%,0
+2025-10-02,P04,TREATMENT,60,39,580ms,0%,0
+2025-10-03,P05,Control ,50,40,0.49s,0.0,0
+2025-10-04,P06,Treatment,30,22,530ms,20%,5
